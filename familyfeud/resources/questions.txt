@@ -1,0 +1,30 @@
+Na akú osobnú vec bývajú muži zaťažení? 						
+Auto;Penis;Vzhľad;Mobil;	Hodinky;	Postava;	Peňaženka
+24;	18;	12;	17;	6;	10;	13						
+Čo si nesmiete zabudnúť na stanovačku?						
+Stan;	Alkohol;	Spacák;	Karimatku;	Kondómy;	Zapalovač;	Špekačky
+29;	18;	17;	8;	12;	10;	6;						
+Ktoré potraviny by ste nemali jesť pred prvým rande ?						
+Cesnak;	Cibuľa;	Kapusta;	Ryby;	Klobása;	Strukoviny;	!
+30;	25;	8;	20;	12;	5;	!						
+Akú výhovorku použijete aby ste nešli do práce?						
+Som chorý;	Hnačka;	Rodinné prípady;	Bolí ma zub;	!;	Neche sa mi; 	Je mi zle 
+40;	21;	7;	13;	!;	4;	15						
+Pomenujte niečo, čo rastie rýchlejšie, ako by ste chceli						
+Vlasy;	Brucho;	Deti;	Ceny;	Úroky;	Váha;	Fúzy/Chlpy
+2;	5;	15;	34;	18;	17;	9						
+Čo môže inštruktor autoškoly povedať svojej žiacke a zaroveň aj manželke v posteli?						
+Pridaj;	Spomal;	Rýchlejšie;	Pomalšie;	Otoč sa;	Preraď mi to tam;	Nejde ti to
+32;	23;	10;	18;	9;	3;	5						
+Z akého alkoholu býva ľuďom najčastejšie zle?						
+Vodka;	Burčiak;	Domáce;	Víno;	Likéry;	Rum;	Šampanské
+33;	23;	18;	9;	7;	6;	4						
+Čo sa dá zabudnúť v taxíku? 						
+Kľúče;	Peňaženka;	Telefón;	Súdnosť;	Dáždnik;	Pytel;	Batožina
+27;	21;	18;	10;	12;	3;	9						
+Ktoré povolanie si zaslúžili zarábať viac?						
+Učitelia;	Hasiči;	Záchranári;	Zdravotná sestra;	Lekári;	Čašníci;	Upratovačka
+12;	9;	8;	8;	15;	4;	5						
+Pomenujte miesto, kde musíte čakať v rade						
+Pri pokladni;	Pošta;	Kino;	Covid odber;	Banka;	Úrady;	U lekára
+19;	11;	3;	4;	7;	9;	8
